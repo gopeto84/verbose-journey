@@ -1,3 +1,4 @@
+Line 0 is also important
 Line 1 has no meaning
 Line 2 as well
 Line 3 is here to complete the lab
